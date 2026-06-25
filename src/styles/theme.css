@@ -1,0 +1,23 @@
+.bg-ifrs-red {
+  background-color: var(--ifrs-red);
+}
+
+.bg-ifrs-green {
+  background-color: var(--ifrs-green);
+}
+
+.bg-ifrs-black {
+  background-color: var(--ifrs-black);
+}
+
+.text-ifrs-red {
+  color: var(--ifrs-red);
+}
+
+.text-ifrs-green {
+  color: var(--ifrs-green);
+}
+
+.text-ifrs-black {
+  color: var(--ifrs-black);
+}
